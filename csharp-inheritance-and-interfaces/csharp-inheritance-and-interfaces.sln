@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-inheritance-and-interfaces", "csharp-inheritance-and-interfaces\csharp-inheritance-and-interfaces.csproj", "{C904696A-67B5-407E-A53B-73EDA994B76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C904696A-67B5-407E-A53B-73EDA994B76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C904696A-67B5-407E-A53B-73EDA994B76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C904696A-67B5-407E-A53B-73EDA994B76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C904696A-67B5-407E-A53B-73EDA994B76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
